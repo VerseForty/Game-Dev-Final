@@ -1,0 +1,42 @@
+﻿Milestone 2: 11/15
+Scientists:
+        Variety(palette, obstacles vs scenery, peanut butter opener)
+        AI state changing(based on distance from player)
+        Animation(running/walking, swimming)
+        Interact with environment(trigger doors, move objects)
+Octopus:
+        Animation(Ned)
+        Camo(take colors from local area, change enemy ai state)(Ned)
+        Climbing(animation, position changing)(Ned)
+        Restart game without actually being killed when scientists touch you.(could we make them pick you up and bring you to the begining?)
+Fish tank:(Ned)
+        Water
+        Healing
+Fish
+Stamina:(Mark)
+        Show bar
+        Decrease while using
+        Increase while not using
+Health:(Mark)
+        Show bar properly
+        Decrease properly
+Ink:
+        Stun enemies
+        Decorate where it collides
+        Limited ammo
+Rooms:(Mark)
+        Tutorial Room
+        More rooms in general
+Items:
+        Change effect on throw/destruction
+        Glow when close/context notification display
+Easter Eggs:
+        Peanut butter
+        Each room has a goal towards this
+Map:
+        Reset on capture
+Sound:
+        Music
+        Character sound effects
+        Item sound effects
+Export to html
